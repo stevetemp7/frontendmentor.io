@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+  }
+
+body {
+    margin: 0;
+    background-color: #F2EAE2;
+}
+
+.container {
+    width: 1440px;
+    margin: 0 auto;
+}
+
+.image {
+    background-color: red;
+}
+
+.card {
+    background-color: blue;
+}
